@@ -1,5 +1,9 @@
 This is the code book for the project
+
+
 How to get to the tinyData.txt:
+
+
 Download data from the link below and unzip it into working directory of R Studio. Execute the R script.
 
 About the source data
